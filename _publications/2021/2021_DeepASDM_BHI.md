@@ -10,7 +10,7 @@ authors:
 - Xiaoru Gao
 - Jeroen Van Houtte
 - Zihao Chen
-- Guoyan
+- Guoyan Zheng
 
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/9508553
